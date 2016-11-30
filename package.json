@@ -1,0 +1,26 @@
+{
+  "name": "Home_Day 1 - word_count-lab",
+  "version": "1.0.0",
+  "description": "Word Count",
+  "main": "app/library.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha tests/tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elahsoft/Home_Day1_word_count_Lab.git"
+  },
+  "author": "OPARA FEBECHUKWU CHINONYEREM",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elahsoft/Home_Day1_word_count_Lab/issues"
+  },
+  "homepage": "https://github.com/elahsoft/Home_Day1_word_count_Lab#readme",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "expect": "^1.20.2"
+  }
+}

@@ -1,0 +1,4 @@
+node_modules/
+app/.DS_Store
+tests/.DS_Store
+app/tests.html
